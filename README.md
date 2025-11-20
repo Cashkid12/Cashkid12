@@ -10,22 +10,31 @@
 ## 🧑‍💻 About Me
 
 - 🚀 Passionate about frontend & backend development  
-- 🌱 Currently improving my skills in full-stack development  
-- 🎯 Focused on React, Vite, Node.js, Express & MongoDB  
-- 💡 I love solving problems, designing clean UIs, and building real-world apps  
+- 🌱 Constantly learning and improving  
+- 💡 I enjoy building real-world apps with clean UI and solid architecture  
 
 ---
 
 ## ⚙️ Tech Stack
 
-### **Frontend**
-- React • Vite • JavaScript (ES6+) • TailwindCSS • HTML • CSS
+**Frontend**  
+React · Vite · JavaScript (ES6+) · TailwindCSS · HTML · CSS  
 
-### **Backend**
-- Node.js • Express.js • MongoDB • REST APIs
+**Backend**  
+Node.js · Express.js · MongoDB · REST APIs  
 
-### **Tools**
-- Git • GitHub • VS Code • Postman • Vercel • Netlify
+**Tools**  
+Git · GitHub · VS Code · Postman · Vercel · Netlify  
+
+---
+
+## 💼 Projects
+
+### [Grace Care Hospital](https://gracecare-hospital.vercel.app/)  
+A hospital web application designed to simulate a real medical care facility.  
+- Built with a modern tech stack  
+- Features patient-friendly UI and seamless navigation  
+- Deployed on **Vercel**
 
 ---
 
@@ -40,8 +49,8 @@
 
 ## 🔗 Connect With Me
 
-- 🌐 Portfolio: **https://nthiga.vercel.app/**
-- 📧 Email: **joenthiga678@gmail.com**
+- 🌐 Portfolio: [nthiga.vercel.app](https://nthiga.vercel.app/)  
+- 📧 Email: joenthiga678@gmail.com  
 
 ---
 
