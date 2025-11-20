@@ -1,17 +1,18 @@
 <h1 align="center">👋 Hi, I'm Joe Nthiga</h1>
 
 <p align="center">
-  <b>Self-taught Full-Stack Developer • React & Node.js Enthusiast</b><br/>
-  Building modern, fast, and scalable web applications.
+  <b>Self-taught Full-Stack Developer • React | Node.js | Python</b><br/>
+  Building modern, fast and scalable web applications.
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🚀 Passionate full-stack developer focused on real-world apps  
-- 🌱 Constantly improving and learning new technologies  
-- 💡 I enjoy designing clean UIs and solving complex backend logic  
+- 🚀 Self-taught full-stack developer  
+- 💡 I build clean UI + strong backend logic  
+- 🌱 Learning daily & improving my tech skills  
+- 🎯 Focus: frontend, backend, APIs, user experience  
 
 ---
 
@@ -24,12 +25,17 @@
 
 ### **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### **Tools**
+### **Programming Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,js" />
+</p>
+
+### **Full-Stack Developer Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,bash" />
 </p>
 
 ---
@@ -38,9 +44,9 @@
 
 ### 🚑 **Grace Care Hospital**  
 🔗 **Live Site:** https://gracecare-hospital.vercel.app/  
-A modern hospital web application with a clean UI and smooth user experience.  
-- Built using **React + TailwindCSS**  
-- Fully responsive  
+A modern hospital web application featuring clean UI, responsive layout, and smooth user experience.  
+- Built with **React + TailwindCSS**  
+- Fully mobile-friendly  
 - Hosted on **Vercel**
 
 ---
