@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Joe Nthiga</h1>
 
 <p align="center">
-  <b>Self-taught Full-Stack Developer • React | Node.js | Python</b><br/>
+  <b>Self-taught Full-Stack Developer • React | Vite | Python Backend</b><br/>
   Building modern, fast and scalable web applications.
 </p>
 
@@ -9,10 +9,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Self-taught full-stack developer  
-- 💡 I build clean UI + strong backend logic  
-- 🌱 Learning daily & improving my tech skills  
-- 🎯 Focus: frontend, backend, APIs, user experience  
+- 🚀 Full-stack developer using **React + Vite** for frontend  
+- 🐍 Backend powered by **Python**  
+- 💡 Passion for clean UI and powerful backend logic  
+- 🌱 Always learning and building real-world applications  
 
 ---
 
@@ -20,12 +20,12 @@
 
 ### **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,tailwind" />
 </p>
 
 ### **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
 </p>
 
 ### **Programming Languages**
@@ -44,10 +44,20 @@
 
 ### 🚑 **Grace Care Hospital**  
 🔗 **Live Site:** https://gracecare-hospital.vercel.app/  
-A modern hospital web application featuring clean UI, responsive layout, and smooth user experience.  
-- Built with **React + TailwindCSS**  
-- Fully mobile-friendly  
+A modern hospital web application featuring clean UI, responsive navigation, and a professional structure.  
+- Frontend: **React + TailwindCSS**  
+- Design fully responsive  
 - Hosted on **Vercel**
+
+---
+
+### 🧮 **EquAI — Math AI Assistant (Under Development)**  
+🔗 **Live Site:** https://equai-ai.vercel.app/  
+An AI-powered mathematics assistant that helps users solve problems and understand equations.  
+- Frontend: **React + Vite**  
+- Backend (in progress): **Python**  
+- Still under active development  
+- Clean modern UI and smooth layout
 
 ---
 
