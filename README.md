@@ -11,7 +11,7 @@
 - 🚀 Full-stack developer using **React + Vite** for frontend  
 - 🐍 Backend powered by **Python**  
 - 🎨 Love designing clean, modern UI  
-- 🔥 Passionate about API development and scalable apps  
+- 🔥 Passionate about scalable backend logic & APIs  
 - 🌱 Always learning, building and improving daily  
 
 ---
@@ -42,12 +42,12 @@
 
 ## 🧰 Professional Skills Overview
 
-- ✔️ UI/UX design using Tailwind & React components  
-- ✔️ REST API development  
-- ✔️ Python backend logic & automation  
-- ✔️ State management (Hooks, Context API)  
-- ✔️ Clean folder structure & reusable components  
-- ✔️ Deployment using Vercel / Netlify  
+- ✔️ React UI/UX with Tailwind  
+- ✔️ Python backend logic & API development  
+- ✔️ Vite fast builds & modern dev workflow  
+- ✔️ Clean folder structures & reusable components  
+- ✔️ Deployment: Vercel, Netlify  
+- ✔️ Git/GitHub version control  
 
 ---
 
@@ -66,10 +66,10 @@ A modern hospital website built with React + TailwindCSS.
 🔗 **Live Site:** https://equai-ai.vercel.app/  
 📌 **Status:** ![In Progress](https://img.shields.io/badge/Building...-yellow)
 
-AI-powered mathematics assistant that will solve equations and explain steps.  
+AI-powered mathematics assistant that will solve equations & explain steps.  
 - Frontend: **React + Vite**  
 - Backend: **Python (Coming Soon)**  
-- Modern UI & fast performance  
+- Modern UI  
 - Under active development  
 
 ---
@@ -86,7 +86,7 @@ AI-powered mathematics assistant that will solve equations and explain steps.
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cashkid12/Cashkid12/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
+  <img src="https://raw.githubusercontent.com/Cashkid12/Cashkid12/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
