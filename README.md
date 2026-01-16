@@ -8,13 +8,13 @@
 
 ## About Me
 
-I am a **self-taught Full-Stack Developer** with experience in **React, Vite, and Python**.  
-I build **modern, responsive web applications** and **scalable backend systems**, always aiming to create clean and maintainable code.
+I am a **self-taught Full-Stack Developer** focused on building **modern, scalable web applications**.  
+I specialize in **React + Vite** for frontend development and **Python** for backend logic, designing **clean interfaces** and robust backend systems.
 
-- 🚀 Full-stack development (React + Vite frontend, Python backend)  
-- 🎨 Clean and modern UI/UX design  
-- ⚡ Scalable backend logic & APIs  
-- 🌱 Continuously learning and improving  
+- Full-stack development: **React + Vite frontend**, **Python backend**  
+- Designing modern, responsive UI/UX  
+- Building scalable backend logic & APIs  
+- Continuously learning and improving  
 
 ---
 
@@ -39,9 +39,9 @@ I build **modern, responsive web applications** and **scalable backend systems**
 
 ## Professional Skills
 
-- 💻 **Frontend:** React, Vite, TailwindCSS (responsive and modern UIs)  
+- 💻 **Frontend:** React, Vite, TailwindCSS (modern and responsive UI)  
 - 🐍 **Backend:** Python APIs and backend logic  
-- 🗂 **Structure:** Clean folder structures & reusable components  
+- 🗂 **Project Structure:** Clean folder structures & reusable components  
 - 🚀 **Deployment:** Vercel, Netlify  
 - 🔧 **Version Control:** Git & GitHub  
 
@@ -51,23 +51,23 @@ I build **modern, responsive web applications** and **scalable backend systems**
 
 ### Grace Care Hospital
 [Live Site](https://gracecare-hospital.vercel.app/)  
-A **modern hospital website** built with React + TailwindCSS.
+A **modern hospital website** built with React + TailwindCSS.  
 
 **Highlights:**  
 - Fully responsive design  
-- Professional and clean UI  
+- Clean and professional UI  
 - Hosted on **Vercel**  
 
 ---
 
 ### EquAI — Math AI Assistant
 [Live Site](https://equai-ai.vercel.app/)  
-An **AI-powered mathematics assistant** that solves equations and explains steps.
+An **AI-powered mathematics assistant** that solves equations and explains steps.  
 
 **Highlights:**  
 - Frontend: React + Vite  
-- Backend: Python (in development)  
-- Clean, modern interface  
+- Backend: Python (under development)  
+- Modern and clean interface  
 - Actively improving functionality  
 
 ---
@@ -83,7 +83,7 @@ An **AI-powered mathematics assistant** that solves equations and explains steps
 
 ## Connect With Me
 
-- 🌐 **Portfolio:** [nthiga.vercel.app](https://nthiga.vercel.app/)  
+- 🌐 **Portfolio:** [joenthiga.vercel.app](https://joenthiga.vercel.app/)  
 - ✉️ **Email:** joenthiga678@gmail.com  
 - 💼 **GitHub:** [Cashkid12](https://github.com/Cashkid12)  
 
