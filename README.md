@@ -8,13 +8,13 @@
 
 ## About Me
 
-I am a self-taught full-stack developer specializing in **React + Vite** for frontend development and **Python** for backend logic.  
-I focus on building **clean, responsive, and scalable web applications** while continuously learning and improving my skills.
+I am a **self-taught Full-Stack Developer** with experience in **React, Vite, and Python**.  
+I build **modern, responsive web applications** and **scalable backend systems**, always aiming to create clean and maintainable code.
 
-- Full-stack development with **React, Vite, and Python**  
-- Designing clean and modern user interfaces  
-- Building scalable backend logic and APIs  
-- Continuously learning and improving
+- 🚀 Full-stack development (React + Vite frontend, Python backend)  
+- 🎨 Clean and modern UI/UX design  
+- ⚡ Scalable backend logic & APIs  
+- 🌱 Continuously learning and improving  
 
 ---
 
@@ -30,11 +30,6 @@ I focus on building **clean, responsive, and scalable web applications** while c
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
 </p>
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js" />
-</p>
-
 ### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,bash" />
@@ -44,11 +39,11 @@ I focus on building **clean, responsive, and scalable web applications** while c
 
 ## Professional Skills
 
-- Frontend: **React, Vite, TailwindCSS** (responsive, modern UI)  
-- Backend: **Python APIs and backend logic**  
-- Clean folder structures and reusable components  
-- Deployment: **Vercel, Netlify**  
-- Version control: **Git and GitHub**
+- 💻 **Frontend:** React, Vite, TailwindCSS (responsive and modern UIs)  
+- 🐍 **Backend:** Python APIs and backend logic  
+- 🗂 **Structure:** Clean folder structures & reusable components  
+- 🚀 **Deployment:** Vercel, Netlify  
+- 🔧 **Version Control:** Git & GitHub  
 
 ---
 
@@ -56,23 +51,23 @@ I focus on building **clean, responsive, and scalable web applications** while c
 
 ### Grace Care Hospital
 [Live Site](https://gracecare-hospital.vercel.app/)  
-A modern hospital website built with React and TailwindCSS.  
+A **modern hospital website** built with React + TailwindCSS.
 
-Highlights:  
+**Highlights:**  
 - Fully responsive design  
-- Clean and professional UI  
-- Hosted on Vercel  
+- Professional and clean UI  
+- Hosted on **Vercel**  
 
 ---
 
 ### EquAI — Math AI Assistant
 [Live Site](https://equai-ai.vercel.app/)  
-An AI-powered mathematics assistant that solves equations and explains steps.  
+An **AI-powered mathematics assistant** that solves equations and explains steps.
 
-Highlights:  
-- Frontend: **React + Vite**  
-- Backend: **Python** (under development)  
-- Clean and modern interface  
+**Highlights:**  
+- Frontend: React + Vite  
+- Backend: Python (in development)  
+- Clean, modern interface  
 - Actively improving functionality  
 
 ---
@@ -88,8 +83,9 @@ Highlights:
 
 ## Connect With Me
 
-- Portfolio → [nthiga.vercel.app](https://nthiga.vercel.app/)  
-- Email → joenthiga678@gmail.com  
+- 🌐 **Portfolio:** [nthiga.vercel.app](https://nthiga.vercel.app/)  
+- ✉️ **Email:** joenthiga678@gmail.com  
+- 💼 **GitHub:** [Cashkid12](https://github.com/Cashkid12)  
 
 ---
 
