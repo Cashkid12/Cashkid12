@@ -117,20 +117,20 @@ An AI-powered mathematics assistant that solves problems **step-by-step**, focus
 ## Contact
 
 <p>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/Cashkid12" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/joenthiga/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://your-portfolio.vercel.app" target="_blank">
+  <a href="https://joenthiga.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
 </p>
 
-- **GitHub:** https://github.com/your-username  
-- **LinkedIn:** https://linkedin.com/in/your-profile  
-- **Portfolio:** https://your-portfolio.vercel.app  
+- **GitHub:** https://github.com/Cashkid12  
+- **LinkedIn:** https://www.linkedin.com/in/joenthiga/  
+- **Portfolio:** https://joenthiga.vercel.app/
 
 ---
 
