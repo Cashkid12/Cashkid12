@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Joe Nthiga</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=0A66C2&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Mobile+Developer;React+%7C+Next.js+%7C+Vite+%7C+Expo;Node.js+%7C+Python+Backend+Developer;Building+Scalable+Modern+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=0A66C2&center=true&vCenter=true&width=720&lines=Full-Stack+%26+Mobile+Developer;React+%7C+Next.js+%7C+Vite+%7C+Expo;Node.js+%7C+Python+Backend+Developer;Building+Scalable+Modern+Applications" />
 </p>
 
 ---
@@ -9,15 +9,15 @@
 ## About Me
 
 I am a **self-taught Full-Stack and Mobile Developer** focused on building **scalable, high-performance web and mobile applications**.  
-I work across **frontend, backend, and mobile platforms**, with strong attention to **clean architecture, modern UI/UX, and maintainable codebases**.
+I work across frontend, backend, and mobile platforms with a strong emphasis on **clean architecture, modern UI/UX, and maintainable systems**.
 
-I enjoy solving real-world problems through technology and continuously improving my engineering skills.
+I enjoy solving real-world problems through technology and continuously improving my engineering and system design skills.
 
-**Core Focus Areas**
+**Core Focus**
 - Full-stack web development
-- Mobile app development
-- API design and backend systems
-- Clean UI/UX and scalable architectures
+- Mobile application development
+- Backend APIs and system architecture
+- Clean, modern, and user-focused UI/UX
 
 ---
 
@@ -38,7 +38,7 @@ I enjoy solving real-world problems through technology and continuously improvin
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask" />
 </p>
 
-### Databases & APIs
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
@@ -52,30 +52,28 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 ## Professional Skills
 
-- **Frontend Engineering**
-  - React, Next.js, Vite
-  - Responsive and accessible UI design
-  - Performance optimization and component reusability
+### Frontend Engineering
+- React, Next.js, Vite
+- Responsive and accessible UI development
+- Component reusability and performance optimization
+- Modern styling with TailwindCSS
 
-- **Mobile Development**
-  - Expo (React Native)
-  - Cross-platform mobile apps
-  - API-driven mobile interfaces
+### Mobile Development
+- Cross-platform mobile apps using Expo
+- API-driven mobile interfaces
+- Clean navigation and scalable layouts
 
-- **Backend Development**
-  - Node.js & Express.js REST APIs
-  - Python backend systems (Django, Flask)
-  - Authentication, authorization, and data handling
+### Backend Development
+- RESTful APIs with Node.js and Express
+- Python backend systems with Django and Flask
+- Authentication, authorization, and data handling
+- API integration and data validation
 
-- **System Design**
-  - Clean project structures
-  - Scalable API architecture
-  - Separation of concerns
-
-- **Deployment & DevOps**
-  - Vercel and Netlify deployments
-  - Environment configuration
-  - Git-based workflows
+### System Design & Workflow
+- Clean project structures
+- Scalable backend architecture
+- Git-based collaboration workflows
+- Deployment and environment management
 
 ---
 
@@ -84,11 +82,11 @@ I enjoy solving real-world problems through technology and continuously improvin
 ### Grace Care Hospital
 **Live Site:** https://gracecare-hospital.vercel.app/
 
-A modern hospital website designed to deliver a professional digital presence for healthcare services.
+A modern hospital website designed to provide a professional and trustworthy digital presence.
 
-**Key Features**
-- Responsive and accessible UI
-- Clean layout and professional branding
+**Key Highlights**
+- Fully responsive and accessible UI
+- Clean and professional layout
 - Built with React and TailwindCSS
 - Deployed on Vercel
 
@@ -97,12 +95,12 @@ A modern hospital website designed to deliver a professional digital presence fo
 ### EquAI — AI Mathematics Assistant
 **Live Site:** https://equai-ai.vercel.app/
 
-An AI-powered mathematics assistant designed to **solve problems step-by-step**, focusing on learning and understanding rather than just answers.
+An AI-powered mathematics assistant that solves problems **step-by-step**, focusing on understanding rather than just answers.
 
-**Key Features**
+**Key Highlights**
 - Frontend built with React and Vite
-- Backend logic in Python (in progress)
-- Clean and minimal UI for focus and clarity
+- Backend logic implemented in Python (in progress)
+- Clean, distraction-free interface
 - Designed for students and learners
 
 ---
@@ -111,12 +109,24 @@ An AI-powered mathematics assistant designed to **solve problems step-by-step**,
 
 - AI-powered web applications
 - Mobile applications using Expo
-- Improving backend scalability and API design
+- Backend scalability and API optimization
 - Advanced frontend patterns with Next.js
 
 ---
 
 ## Contact
+
+<p>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://your-portfolio.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+</p>
 
 - **GitHub:** https://github.com/your-username  
 - **LinkedIn:** https://linkedin.com/in/your-profile  
