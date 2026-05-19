@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Joe+Nthiga;Full-Stack+%26+Mobile+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Expo;Building+Real+Products+That+Solve+Real+Problems" />
 </h1>
@@ -97,29 +95,43 @@ A multi-tenant SaaS platform built for **Kenyan retail shops** — replacing not
 
 ---
 
-### 🏥 GraceCare Hospital
+### 🏥 GraceCare Hospital — Medical Website & Patient Portal
 **Live Site:** https://gracecare-hospital.vercel.app/
 
-A modern, professional hospital website providing a trustworthy digital presence for a healthcare provider.
+> *"Your health is our priority. Experience compassionate, world-class medical care."*
 
-**Highlights:**
-- Fully responsive and accessible UI
-- Clean professional layout
-- Appointment booking interface
-- Built with React and TailwindCSS · Deployed on Vercel
+A modern, fully responsive hospital website designed to give patients a trustworthy and professional digital experience — making it easy to find doctors, book appointments, and access medical services online.
+
+| Feature | Details |
+|--------|---------|
+| 🏠 Landing Page | Hero section with clear call-to-action |
+| 📅 Appointments | Online booking interface for patients |
+| 👨‍⚕️ Doctors | Doctor profiles and specializations |
+| 🏥 Services | Full list of medical departments |
+| 📱 Responsive | Mobile, tablet, and desktop optimized |
+| ♿ Accessible | Clean layout focused on all users |
+
+**Tech Stack:** React · TailwindCSS · Vercel
 
 ---
 
 ### 🤖 EquAI — AI Mathematics Assistant
 **Live Site:** https://equai-ai.vercel.app/
 
-An AI-powered math assistant that solves problems **step-by-step**, built for students who want to understand, not just get answers.
+> *"Don't just get the answer — understand it."*
 
-**Highlights:**
-- Frontend: React + Vite
-- Backend: Python (in progress)
-- Clean, distraction-free interface
-- Focused on learning and understanding
+An AI-powered mathematics assistant that solves problems **step-by-step**, built for students and learners who want to genuinely understand math rather than just copy answers.
+
+| Feature | Details |
+|--------|---------|
+| 🧮 Step-by-Step | Full solution breakdowns not just answers |
+| 🤖 AI Powered | Intelligent math problem solving engine |
+| 📚 For Students | Designed for learners at all levels |
+| 🎨 Clean UI | Distraction-free focused interface |
+| ⚡ Fast | Instant responses powered by AI |
+| 🐍 Backend | Python-powered backend (in progress) |
+
+**Tech Stack:** React · Vite · Python · TailwindCSS · Vercel
 
 ---
 
